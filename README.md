@@ -2,9 +2,12 @@
 
 <details>
   <summary>Haokies</summary>
+  It can be used to view the cache files of a browser by simply providing the path to the cache storage folder.
   
-> It can be used to view the cache files of a browser by simply providing the path to the cache storage folder.
-  
+```
+C:\Users\<User Name>\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data
+```
+
   ```
   import os
 import re
