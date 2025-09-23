@@ -1,5 +1,5 @@
-# tools
-
+# Universal image carver
+It scans any uploaded binary file for multiple formats (JPG, PNG, WebP, GIF, BMP, ICO, AVIF, HEIF) and dumps them into a ZIP for download.
 ```
 from google.colab import files
 import os, shutil
